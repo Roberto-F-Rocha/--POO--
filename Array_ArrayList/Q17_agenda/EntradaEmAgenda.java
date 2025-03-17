@@ -1,4 +1,4 @@
-package Array_ArrayList.Q17_agenda;
+package Array_ArrayList.Q17_Agenda;
 import java.util.ArrayList;
 
 class EntradaEmAgenda {

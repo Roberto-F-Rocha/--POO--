@@ -1,4 +1,4 @@
-package Array_ArrayList.Q17_agenda;
+package Array_ArrayList.Q17_Agenda;
 public class Demo_Agenda {
     public static void main(String[] args) {
         Agenda agenda = new Agenda();

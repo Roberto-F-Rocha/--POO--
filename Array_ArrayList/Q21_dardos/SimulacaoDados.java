@@ -1,4 +1,4 @@
-package Array_ArrayList.Q21_dardos;
+package Array_ArrayList.Q21_Dardos;
 
 import java.util.Random;
 

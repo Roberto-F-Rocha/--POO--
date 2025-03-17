@@ -1,4 +1,4 @@
-package Array_ArrayList.Q19_cliente;
+package Array_ArrayList.Q19_Cliente;
 
 import java.util.ArrayList;
 import java.util.Scanner;

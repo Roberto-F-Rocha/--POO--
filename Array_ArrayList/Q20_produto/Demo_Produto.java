@@ -1,4 +1,4 @@
-package Array_ArrayList.Q20_produto;
+package Array_ArrayList.Q20_Produto;
 public class Demo_Produto{
     public static void main(String[] args) {
         System.out.println(Produto.produto(2, 3));

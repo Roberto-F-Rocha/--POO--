@@ -1,4 +1,4 @@
-package Array_ArrayList.Q18_matriz;
+package Array_ArrayList.Q18_Matriz;
 public class Matriz {
     private float[][] m;
 

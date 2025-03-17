@@ -1,4 +1,4 @@
-package Array_ArrayList.Q20_produto;
+package Array_ArrayList.Q20_Produto;
 class Produto {
     public static int produto(int... numeros) {
         int resultado = 1;

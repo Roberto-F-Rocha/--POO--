@@ -1,4 +1,4 @@
-package Array_ArrayList.Q19_cliente;
+package Array_ArrayList.Q19_Cliente;
 class Cliente {
     private int id, idade;
     private String nome, telefone;
