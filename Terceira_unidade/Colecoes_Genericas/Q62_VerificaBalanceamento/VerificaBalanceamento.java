@@ -14,7 +14,9 @@ public class VerificaBalanceamento {
 
     public static void main(String[] args) {
         String[] testes = {"()", "()()", "()()()", "))", "((", "))(("};
-        for (String teste : testes) System.out.println(estaBalanceada(teste));
+        for (String teste : testes){
+            System.out.println(estaBalanceada(teste));
+        }
     }
 }
 

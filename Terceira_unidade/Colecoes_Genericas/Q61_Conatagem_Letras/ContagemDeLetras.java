@@ -12,8 +12,7 @@ public class ContagemDeLetras {
             if (Character.isLetter(letra))
                 mapaDeLetras.put(letra, mapaDeLetras.getOrDefault(letra, 0) + 1);
 
-        mapaDeLetras.forEach((letra, ocorrencias) -> System.out.println(letra + ": " + ocorrencias));
+        mapaDeLetras.forEach((letra, ocorrencias) ->
+        System.out.println(letra + ": " + ocorrencias));
     }
 }
-
-

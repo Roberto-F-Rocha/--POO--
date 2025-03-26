@@ -3,7 +3,7 @@ package Terceira_unidade.Classes_abstratas_polimorfismo_interfaces.Q42_Bibliotec
 public class LivroDeBiblioteca extends Livro implements ItemDeBiblioteca {
     private boolean emprestado;
     private String localizacao;
-    
+
     public LivroDeBiblioteca(String titulo, String autor, int numeroDePaginas, int anoDaEdicao, String localizacao) {
         super(titulo, autor, numeroDePaginas, anoDaEdicao);
         this.emprestado = false;
@@ -14,7 +14,7 @@ public class LivroDeBiblioteca extends Livro implements ItemDeBiblioteca {
     public boolean estaEmprestado() {
         return emprestado;
     }
-
+     
     @Override
     public void empresta() {
         emprestado = true;
